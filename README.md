@@ -1,3 +1,3 @@
-# projek-model-ai
-# ini merupakan repositori penyimpanan untuk hasil tugas kelompok matakuliah Kecerdasan Tiruan
-# file Decision Tree.pdf merupakan file hasil pembuatan visualisasi dari model Decision Tree kami
+# Classifying and Predicting Students Graduation Project
+ This is the repository for my work in a group project for Artificial Intelligence Course
+ Decision Tree.pdf is the visualization file for the model in the project
